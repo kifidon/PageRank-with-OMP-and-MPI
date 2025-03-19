@@ -46,6 +46,3 @@ Ensure the following dependencies are installed:
 - **Load Balancing:** Dynamically distributes nodes across MPI processes.
 - **Communication Optimization:** Minimizes MPI communication overhead.
 - **Parallelization Efficiency:** Uses OpenMP within each MPI process.
-
-# 📜 License
-This project is licensed under the MIT License.
